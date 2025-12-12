@@ -6,7 +6,7 @@ Currently a Student, I want to take my ideas and convert them to digital.
 
 <!-- ~ **Tech Stack** ~ -->
 
-## ~ Tech Stack in Progress ~  
+## ~ Tech Stack Progress ~  
 
 C++ | Python | JUCE
 
