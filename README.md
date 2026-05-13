@@ -8,7 +8,7 @@ Currently a Student, I want to take my ideas and convert them to digital.
 
 ## ~ Tech Stack Progress ~  
 
-C++ | Python | JUCE
+C++ | Python | JUCE | HTML | CSS | JS | PostGres
 
 ## ~ **Focus at the Moment** ~  
 - Best Practices with C++ 17/20  
@@ -23,11 +23,12 @@ C++ | Python | JUCE
 
 ### Career Trajectory Objectives
 - Become a Software Engineer that a team can rely on.
-- Create awesome Audio Plugins!
+- Create awesome Audio Plugins & Applications!
 *** 
 
 **Currently Reading:**  
-Thinking in Systems - Donella H. Meadows  
+Thinking in Systems - Donella H. Meadows <br>
+The Pragmatic Programmer: Your Journey to Mastery, 20th Anniversary Edition - Andy Hunt and Dave Thomas
 
 **Hobbies:**  
 FL Studio | Butchering my Instruments | Canoing | Walking my Sister's Dog
